@@ -18,9 +18,7 @@ const KaKaoMap =(props)=> {
     console.log()
    },[props])
    return (
-        <div id="mymap" style={{width:'50vw', height:'50vh'}}>
-            
-        </div>
+        <div id="mymap" style={{width:'50vw', height:'50vh'}}></div>
    )
 }
 
